@@ -19,8 +19,6 @@ Make sure you have freeglut.h included as dependency on your visual studio proje
 10. Toggle 'R': enable rainbow.
 11. Toggle 'G': enable bombing.
 12. Toggle 'Q': exit the program.
-13. Toggle 'F': enable weapon system on Enterprise. 
-14. Toggle 'E': enable cloaking on the Enterprise.
 
 ##The Basic scene
 ![alt tag](http://res.cloudinary.com/zihaow/image/upload/v1481069938/1_ry0bny.png)
