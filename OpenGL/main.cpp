@@ -1643,8 +1643,8 @@ void main(int argc, char** argv)
 	printf("Down    Arrow:      move down\n");
 	printf("Mouse   Right:      move right\n");
 	printf("Mouse    Left:      move left\n");
-	printf("Page    UP   :      forward\n");
-	printf("Page    DOWN :      backward\n");
+	printf("Page    Up   :      Increase plane speed\n");
+	printf("Page    Down :      Decrease plane speed\n");
 	
 	/* Go into a perpetual loop*/
 	glutMainLoop();
