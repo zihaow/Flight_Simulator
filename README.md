@@ -6,6 +6,14 @@ sea scene to switch). You can enable textured mapping to make it look more reali
 ## To run
 Make sure you have freeglut.h included as dependency on your visual studio project.
 
+## Camera / Movement Controls
+1. Up Arrow:    move up;
+2. Down Arrow:  move down;
+3. Mouse Right: move right;
+4. Mouse Left:  move left;
+5. Page Up:     Increase plane / camera speed;
+6. Page Down :  Decrease plane / camera speed;
+
 ## Key controls
 1. Toggle 'F': enable full screen.
 2. Toggle 'W': enable wire frame.
