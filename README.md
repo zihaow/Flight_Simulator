@@ -4,7 +4,8 @@ This is an OpenGL project built to simulate a plane flying in 3D scenes (basic a
 sea scene to switch). You can enable textured mapping to make it look more realistic. 
 
 ## To run
-Make sure you have freeglut.h included as dependency on your visual studio project.
+Simply download the Flight_Simulator.zip file and unzipp it to run the executable file.
+If you want to run it on developer mode: make sure you have freeglut.h included as dependency on your visual studio project.
 
 ## Camera / Movement Controls
 1. Up Arrow:    move up;
